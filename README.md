@@ -1,4 +1,4 @@
-# roncoo-cmdb
+# develop_flask
 龙果学院推出开源运维平台，目前版本实现：权限控制，CMDB,cobbler装机平台，zabbix管理平台<br />
 后期会持续推出发布平台，批量管理平台、希望跟大家交流学习
 功能说明：
