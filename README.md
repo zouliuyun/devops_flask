@@ -41,3 +41,5 @@
      主机出现问题，或者维护数据时候添加维护周期。
 
      调用zabbix图形在运维平台展示
+     
+  安装：https://github.com/zouliuyun/devops_flask/blob/master/devops/install/install.txt
