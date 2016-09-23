@@ -1,0 +1,184 @@
+ * Running on http://0.0.0.0:2000/ (Press CTRL+C to quit)
+ * Restarting with stat
+ * Debugger is active!
+ * Debugger pin code: 263-472-224
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting
+Traceback (most recent call last):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 76, in emit
+    if self.shouldRollover(record):
+  File "/usr/lib64/python2.6/logging/handlers.py", line 149, in shouldRollover
+    msg = "%s\n" % self.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 662, in format
+    return fmt.format(record)
+  File "/usr/lib64/python2.6/logging/__init__.py", line 444, in format
+    record.message = record.getMessage()
+  File "/usr/lib64/python2.6/logging/__init__.py", line 314, in getMessage
+    msg = msg % self.args
+TypeError: not all arguments converted during string formatting

@@ -1,0 +1,165 @@
+{% extends "layout.html" %}
+
+{% block breadcrumb %}
+<li class="active">dashboard</li>
+{% endblock %}
+
+{% block body %}
+<div class="container">
+
+    <!-- Docs nav
+    ================================================== -->
+    <div class="row">
+      <div class="span3 bs-docs-sidebar">
+        <ul class="nav nav-list bs-docs-sidenav">
+          <li><a href="#global"><i class="icon-chevron-right"></i> gmtool地址</a></li>
+          <li><a href="#gridSystem"><i class="icon-chevron-right"></i> 地址收藏</a></li>
+          <li><a href="#fluidGridSystem"><i class="icon-chevron-right"></i>NBA运维相关文档</a></li>
+        </ul>
+      </div>
+      <div class="span9">
+
+
+
+        <!-- Global Bootstrap settings
+        ================================================== -->
+        <section id="global">
+          <div class="page-header">
+            <h1>gmtool地址</h1>
+          </div>
+
+          <h3>必须使用HTML5文档类型</h3>
+          <p>Bootstrap使用的某些HTML元素和CSS属性需要文档类型为HTML5 doctype。因此这一文档类型必须出现在项目的每个页面的开始部分。</p>
+<pre class="prettyprint linenums">
+&lt;!DOCTYPE html&gt;
+&lt;html lang="en"&gt;
+  ...
+&lt;/html&gt;
+</pre>
+        </section>
+
+
+
+
+        <!-- Grid system
+        ================================================== -->
+        <section id="gridSystem">
+          <div class="page-header">
+            <h1>地址收藏</h1>
+          </div>
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>GmTool</th>
+                  <th>logTool</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>NBA1_CN</td>
+                  <td>
+			<li><a href="http://10.96.36.70:8888" >内网</a></li>
+			<li><a href="http://119.15.139.58:8888" >外网</a></li>
+		  </td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                </tr>
+                <tr>
+                  <td>NBA1_TW</td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                </tr>
+                <tr>
+                  <td>NBA2_IDC</td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                </tr>
+                <tr>
+                  <td>NBA2_YYB</td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                </tr>
+                <tr>
+                  <td>NBA2_TW</td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                  <td>
+                        <li><a href="http://10.96.36.70:8888" >内网</a></li>
+                        <li><a href="http://119.15.139.58:8888" >外网</a></li>
+                  </td>
+                </tr>
+              </tbody>
+            </table>
+
+        </section>
+
+
+
+        <!-- Fluid grid system
+        ================================================== -->
+        <section id="fluidGridSystem">
+          <div class="page-header">
+            <h1>NBA运维相关文档</h1>
+          </div>
+            <table class="table table-striped">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>First Name</th>
+                  <th>Last Name</th>
+                  <th>Username</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>1</td>
+                  <td>Mark</td>
+                  <td>Otto</td>
+                  <td>@mdo</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td>Jacob</td>
+                  <td>Thornton</td>
+                  <td>@fat</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td>Larry</td>
+                  <td>the Bird</td>
+                  <td>@twitter</td>
+                </tr>
+              </tbody>
+            </table>
+        </section>
+
+
+      </div>
+    </div>
+
+  </div>
+{% endblock %}
+
