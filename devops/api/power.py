@@ -5,7 +5,6 @@ from . import app , jsonrpc
 from auth import auth_login
 import json, traceback
 import util
-
 # 权限的增删改查
 
 @jsonrpc.method('power.create')

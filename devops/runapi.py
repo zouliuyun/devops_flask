@@ -34,4 +34,4 @@ app.config['zabbix'] = zabbix_api.Zabbix(zabbix_config)
 
 
 if __name__ == '__main__':
-    app.run(host=config.get('bind', '10.96.36.40'),port=int(config.get('port')), debug=True)
+    app.run(host=config.get('bind', '127.0.0.1'),port=int(config.get('port')), debug=True)

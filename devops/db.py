@@ -5,6 +5,7 @@ import MySQLdb as mysql
 class Cursor():
     def __init__(self, config):
         self.config = dict([(k[6:], config[k]) for k in config if k.startswith('mysql_')])
+        #rint self.config
         if 'port' in self.config:
             self.config['port'] = int(self.config['port'])
         if self.config:
